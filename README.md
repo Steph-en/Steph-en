@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Steph-en
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning dackend development
+- 🌱 I’m currently learning react, dackend development, Flutter, Python, SQL and mongoDB
 - 💞️ I’m looking to collaborate on full-stack projects
 - 📫 How to reach me appahstephen9@gmail.com
 
