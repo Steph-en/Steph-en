@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Steph-en
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react, dackend development, Flutter, Python, SQL and mongoDB
-- 💞️ I’m looking to collaborate on full-stack projects
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me appahstephen9@gmail.com
 
 <!---
