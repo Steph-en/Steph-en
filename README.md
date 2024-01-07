@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Steph-en
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning react, angular, tailwind css and material ui
+- 💞️ I’m looking to collaborate on projects as a junior frontend dev
 - 📫 How to reach me appahstephen9@gmail.com
 
 <!---
